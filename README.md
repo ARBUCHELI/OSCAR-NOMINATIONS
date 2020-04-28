@@ -33,11 +33,11 @@ last 4 lines as above, I've just written 1 line, by using the .get method. In th
 dictionary and return the value for that director (the number of times they've won). If they aren't in the dictionary, get returns 0 for
 that director. Then we increment that director's count by one.
 
-<strong>Output question 1</strong>
+<strong>Output question 1a</strong>
 
 ![nom](https://github.com/anferebu/OSCAR-NOMINATIONS/blob/master/nom_count_dict.jpg)
 
-<strong>Output question 2</strong>
+<strong>Output question 1b</strong>
 
 ![count](https://github.com/anferebu/OSCAR-NOMINATIONS/blob/master/win_count_dict.jpg)
 
