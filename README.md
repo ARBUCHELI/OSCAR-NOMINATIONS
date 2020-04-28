@@ -36,3 +36,10 @@ that director. Then we increment that director's count by one.
 ![nom](https://github.com/anferebu/OSCAR-NOMINATIONS/blob/master/nom_count_dict.jpg)
 
 ![count](https://github.com/anferebu/OSCAR-NOMINATIONS/blob/master/win_count_dict.jpg)
+
+<strong>INSTRUCTIONS</strong>
+
+1. Download and unzip the repository folder.
+2. Open, compile and run the break_continue.py file with Python 3 to see the project.
+
+# Author: Andrés R. Bucheli.
