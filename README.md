@@ -44,6 +44,6 @@ that director. Then we increment that director's count by one.
 <strong>INSTRUCTIONS</strong>
 
 1. Download and unzip the repository folder.
-2. Open, compile and run the break_continue.py file with Python 3 to see the project.
+2. Open, compile and run the oscar_nominations.py file with Python 3 to see the project.
 
 # Author: Andrés R. Bucheli.
