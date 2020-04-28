@@ -34,3 +34,5 @@ dictionary and return the value for that director (the number of times they've w
 that director. Then we increment that director's count by one.
 
 ![nom](https://github.com/anferebu/OSCAR-NOMINATIONS/blob/master/nom_count_dict.jpg)
+
+![count](https://github.com/anferebu/OSCAR-NOMINATIONS/blob/master/win_count_dict.jpg)
